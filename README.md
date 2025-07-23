@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Deborah Ataguba
 
 💡 **Aspiring Data Analyst** passionate about turning data into insights and actionable strategies.  
 📊 Skilled in **Excel, SQL, Power BI, and Python** for data cleaning, analysis, and visualization.  
@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tools & Technologies I Use
-✅ Excel | ✅ SQL | ✅ Power BI | ✅ Python (Pandas, NumPy, Matplotlib)  
+✅ Excel | ✅ SQL | ✅ Power BI | ✅ Python 
 ✅ Git & GitHub for version control and project sharing
 
 ---
@@ -27,9 +27,8 @@
 
 ## 📫 Let’s Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-📧 your.email@example.com
+📧 deborahojotule2@gmail.com
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations or opportunities.*
-# Deborah123
+✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations or opportunities.
